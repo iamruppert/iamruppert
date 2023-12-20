@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">Student of Lublin University of Technology in the field of Computer Science - Software Engineering</h3>
+<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/fbdd80_5784b689bf4b4fb68c41d154bd60fd09~mv2.gif">
 
 - 🔭 I’m currently working on [finanse app](https://github.com/SzefMocneUdo/Praca-inzynierska)
   <p>The topic of my engineering thesis. It is a mobile application written in fluter in dart language. The whole thing is hosted on firebase. </p>  
