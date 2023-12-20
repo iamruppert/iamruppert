@@ -2,7 +2,7 @@
 <h3 align="center">Student of Lublin University of Technology in the field of Computer Science - Software Engineering</h3>
 
 - 🔭 I’m currently working on [finanse app](https://github.com/SzefMocneUdo/Praca-inzynierska)
-
+  <p>The topic of my engineering thesis. It is a mobile application written in fluter in dart language. The whole thing is hosted on firebase. </p>  
 - 🌱 I’m currently learning **Spring**
 
 - 📫 How to reach me **lukaszziolkiewicz@tutanota.com**
