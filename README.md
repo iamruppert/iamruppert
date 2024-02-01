@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **lukaszziolkiewicz@tutanota.com**
 
-- ⚡ What do I find interesting **horror books and movies, world of self-development,spirituality**
+- ⚡ What do I find interesting **horror books and movies, sports and world of self-development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
