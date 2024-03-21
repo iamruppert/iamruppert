@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [finanse app](https://github.com/SzefMocneUdo/Praca-inzynierska)
   <p>The topic of my engineering thesis. It is a mobile application written in fluter in dart language. The whole thing is hosted on firebase. </p>  
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Hibernate**
 
 - 📫 How to reach me **lukaszziolkiewicz@tutanota.com**
 
