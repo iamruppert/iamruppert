@@ -2,8 +2,6 @@
 <h3 align="center">Graduate of Lublin University of Technology in the field of Computer Science - Software Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/fbdd80_5784b689bf4b4fb68c41d154bd60fd09~mv2.gif">
 
-- 🌱 I’m currently learning **Hibernate**
-
 - 📫 How to reach me **lukaszziolkiewicz@tutanota.com**
 
 - ⚡ What do I find interesting **horror books and movies, sports and world of self-development**
